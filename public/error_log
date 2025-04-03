@@ -1,0 +1,5 @@
+[10-Aug-2022 07:55:41 UTC] PHP Warning:  require(/home/bikroyik/public_html/pharmacy/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bikroyik/public_html/pharmacy/index.php on line 34
+[10-Aug-2022 07:55:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bikroyik/public_html/pharmacy/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bikroyik/public_html/pharmacy/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bikroyik/public_html/pharmacy/index.php on line 34
